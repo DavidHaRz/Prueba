@@ -13,7 +13,7 @@ public class Clientes {
 		return nombreCliente;
 	}
 	public void setNombreCliente(String nombreCliente) {
-		this.nombreCliente = nombreCliente;
+		this.nombreCliente = nombreCliente; 
 	}
 	
 	
